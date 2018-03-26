@@ -19,7 +19,7 @@ keywords:    "Espais, Procomuns, Locals, Barcelona"
 description: "Espais Procomuns, espais disponibles pels teus projectes oberts"
 source_link: "https://espaisprocomuns.cat"
 favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+touch_icon:  "img/favicon.png"
 google_analytics_key: ## UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
