@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Espais Procomuns - Troba espai, emprén des del procomú"
 keywords:    "Espais, Procomuns, Locals, Barcelona"
-description: "Espais Procomuns, espais disponibles pels teus projectes oberts"
+description: "Espais Procomuns, espais disponibles pels teus projectes oberts a Barcelona"
 source_link: "https://github.com/sseerrggii/espaisprocomuns"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/favicon.png"
